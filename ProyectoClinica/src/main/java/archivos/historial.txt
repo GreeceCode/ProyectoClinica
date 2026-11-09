@@ -1,0 +1,4 @@
+1,Juan Perez,Carlos Gomez,Control general
+2,Juan Perez,Ana Ruiz,Dolor de cabeza
+1,Ana Torres,Luis Torres,Chequeo anual
+2,Ana Torres,Carlos Gomez,Dolor de cabeza

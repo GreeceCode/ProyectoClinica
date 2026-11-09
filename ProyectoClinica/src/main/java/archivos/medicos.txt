@@ -1,0 +1,5 @@
+201,Carlos Gomez,Cardiologia
+202,Ana Ruiz,Pediatria
+203,Luis Torres,Neurologia
+204,Maria Salas,Traumatologia
+205,Pedro Diaz,Medicina General206,Juan Martinez,Pediatria,

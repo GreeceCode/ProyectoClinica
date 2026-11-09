@@ -1,0 +1,10 @@
+101,Juan Perez,25,Masculino,987654321,SIS
+102,Ana Torres,30,Femenino,912345678,EsSalud
+103,Carlos Diaz,45,Masculino,923456789,Particular
+104,Maria Lopez,28,Femenino,934567890,SIS
+105,Jose Ramos,50,Masculino,945678901,Particular
+106,Ruth Ricra,22,Femenino,985647586,SIS
+107,Pedro Martinez,35,Masculino,947583658,EsSalud
+108,Alejandro Juarez,25,Masculino,957683647,Particular
+108,Martin Castillo,35,Masculino,966456754,Particular
+109,Maria Pinedo,22,Femenino,987564567,SIS
